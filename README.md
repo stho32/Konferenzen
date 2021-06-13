@@ -18,6 +18,8 @@ Diese Konferenzen betreffen Technologien in meinem Tech-Stack.
 
 ## PHP
 
+- https://phpconference.com/
+
 ## MySQL
 
 
