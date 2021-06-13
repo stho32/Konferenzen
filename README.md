@@ -24,4 +24,6 @@ Diese Konferenzen betreffen Technologien in meinem Tech-Stack.
 
 ## MySQL
 
+## DevOps
 
+- https://devopscon.io/berlin
