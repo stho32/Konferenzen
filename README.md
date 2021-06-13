@@ -12,6 +12,8 @@ Diese Konferenzen betreffen Technologien in meinem Tech-Stack.
 
 ## ASP.Net / C#
 
+- https://basta.net/mainz
+
 ## SQL-Server
 
 ## Powershell
