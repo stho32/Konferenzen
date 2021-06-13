@@ -30,7 +30,8 @@ Diese Konferenzen betreffen Technologien in meinem Tech-Stack.
 
 - https://devopscon.io/berlin
 
-### Serverless Architecture
+### Architecture
 
 - https://serverless-architecture.io/berlin
+- https://microservices-summit.de
 
