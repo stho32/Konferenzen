@@ -24,6 +24,13 @@ Diese Konferenzen betreffen Technologien in meinem Tech-Stack.
 
 ## MySQL
 
-## DevOps
+## Organizational Topics
+
+### DevOps
 
 - https://devopscon.io/berlin
+
+### Serverless Architecture
+
+- https://serverless-architecture.io/berlin
+
