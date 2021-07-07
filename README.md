@@ -29,6 +29,7 @@ Diese Konferenzen betreffen Technologien in meinem Tech-Stack.
 ### DevOps
 
 - https://devopscon.io/berlin
+- https://www.microsoft.com/de-de/techwiese/news/microsoft-devops-forum-2021-devops-im-eigenen-unternehmen-weiter-optimieren.aspx
 
 ### Architecture
 
